@@ -132,7 +132,7 @@ Friday, July 21st 5-9 Demos of VR, AR, and Motion Capture projects</p>
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>Teachers</h2>
-                
+                    <a href="varbootcamp.pdf">Download Teachers' Info</a>
             </div>
         </div>
     </section>
