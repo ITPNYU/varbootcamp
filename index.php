@@ -21,6 +21,9 @@
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600" rel="stylesheet">
+    <link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
+    <link rel="stylesheet" href="css/style.css"> <!-- Resource style -->
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -111,16 +114,18 @@ Please email either <a href="mailto:matt.romein@gmail.com">Matt Romein</a> (<a h
     <!-- Schedule Section -->
     <section id="schedule" class="container content-section text-center">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
+            <?php //include 'calendar.php'; ?>
+            <div class="">
                 <h2>Schedule</h2>
 
-                <p>Monday, July 17th 4:30-6:30 Overview of VR with Sarah Rothberg<br>
+                <?php include 'calendar.php'; ?>
+                <!-- <p>Monday, July 17th 4:30-6:30 Overview of VR with Sarah Rothberg<br>
     Monday, July 17th 7-9 Overview of AR with Ziv Schneider<br>
 Tuesday, July 18th 4:30-6:30 Overview of Game Engines with Todd Bryant<br>
 Wednesday, July 19th 4:30-6:30 Overview of 3D Scanning and Photogrammetry with Gabe Barcia-Colombo<br>
 Wednesday, July 19th 7-9 360 Audio in VR with TK Broderick<br>
 Thursday, July 20 5-9 Off site visit to the motion capture studio at Jay Street/Metro Tech NYU campus. Taught by Todd Bryant, Matt Romein, and Kat Sullivan<br>
-Friday, July 21st 5-9 Demos of VR, AR, and Motion Capture projects</p>
+Friday, July 21st 5-9 Demos of VR, AR, and Motion Capture projects</p> -->
 
                 
             </div>
@@ -132,7 +137,8 @@ Friday, July 21st 5-9 Demos of VR, AR, and Motion Capture projects</p>
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>Teachers</h2>
-                    <a href="varbootcamp.pdf">Download Teachers' Info</a>
+                    <a href="varbootcamp.pdf" class="btn btn-default btn-lg"><i class="fa fa-user-circle-o" aria-hidden="true"></i> <span class="network-name">Download Teachers' Info</span></a>
+                    
             </div>
         </div>
     </section>
@@ -171,9 +177,7 @@ Friday, July 21st 5-9 Demos of VR, AR, and Motion Capture projects</p>
         </div>
     </footer>
 
-    <!-- jQuery -->
-    <script src="js/jquery.js"></script>
-
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
 
@@ -182,6 +186,13 @@ Friday, July 21st 5-9 Demos of VR, AR, and Motion Capture projects</p>
 
     <!-- Custom Theme JavaScript -->
     <script src="js/grayscale.js"></script>
+
+    <!-- calendar JavaScript -->
+    <script src="js/modernizr.js"></script>
+    <script>
+    if( !window.jQuery ) document.write('<script src="js/jquery-3.0.0.min.js"><\/script>');
+    </script>
+    <script src="js/main.js"></script>
 
 </body>
 
