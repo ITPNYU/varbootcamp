@@ -8,7 +8,7 @@ body {
     width: 100%;
     height: 100%;
     font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    color: #fff;
+    color: #ecf0f1;
     background-color: #000;
 }
 
@@ -80,7 +80,7 @@ a:focus {
 .navbar-custom .navbar-brand .navbar-toggle {
     padding: 4px 6px;
     font-size: 16px;
-    color: #fff;
+    color: #ecf0f1;
 }
 
 .navbar-custom .navbar-brand .navbar-toggle:focus,
@@ -89,7 +89,7 @@ a:focus {
 }
 
 .navbar-custom a {
-    color: #fff;
+    color: #ecf0f1;
 }
 
 .navbar-custom .nav li a {
@@ -119,7 +119,7 @@ a:focus {
 }
 
 .navbar-custom .nav li.active a:hover {
-    color: #fff;
+    color: #7f8c8d;
 }
 
 @media(min-width:768px) {
@@ -146,8 +146,8 @@ a:focus {
     height: auto;
     padding: 100px 0;
     text-align: center;
-    color: #fff;
-    background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;
+    color: #bdc3c7;
+    background: url(../img/landing-page.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -160,8 +160,20 @@ a:focus {
     vertical-align: middle;
 }
 
+.intro-body {
+    height: 800px;
+}
+
 .intro .intro-body .brand-heading {
     font-size: 40px;
+}
+
+.intro-text {
+    background-color: rgba(127,140,141,.5);
+}
+
+.brand-heading {
+    color: #7f8c8d;
 }
 
 .intro .intro-body .intro-text {
@@ -188,10 +200,10 @@ a:focus {
     height: 70px;
     margin-top: 15px;
     padding: 7px 16px;
-    border: 2px solid #fff;
+    border: 2px solid #ecf0f1;
     border-radius: 100%!important;
     font-size: 40px;
-    color: #fff;
+    color: #ecf0f1;
     background: 0 0;
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;
@@ -201,7 +213,7 @@ a:focus {
 .btn-circle:hover,
 .btn-circle:focus {
     outline: 0;
-    color: #fff;
+    color: #ecf0f1f;
     background: rgba(255,255,255,.1);
 }
 
@@ -264,7 +276,7 @@ a:focus {
 .download-section {
     width: 100%;
     padding: 50px 0;
-    color: #fff;
+    color: #7f8c8d;
     background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
     background-color: #000;
     -webkit-background-size: cover;
