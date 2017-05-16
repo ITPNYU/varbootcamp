@@ -1,3 +1,5 @@
 .htaccess
 config.php
 payment.php
+.DS_Store
+img/.DS_Store

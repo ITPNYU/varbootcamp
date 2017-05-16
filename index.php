@@ -80,8 +80,10 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
+                        <span style="background-color:#7f8c8d">
                         <h1 class="brand-heading">VR/AR Bootcamp</h1>
-                        <p class="intro-text">The experiential one week workshop in<br> Virtual Reality and Augmented Reality<br>TBD, 2017</p>
+                        <p class="intro-text">The experiential one week workshop in<br> Virtual Reality and Augmented Reality<br>July 17th-21st<br>Located at the Interactive Telecommunications Program at NYU</p>
+                    </span>
                         <a href="#payment" class="btn btn-circle page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
                         </a>
@@ -101,8 +103,8 @@
 
         Student fees will be pooled into a prototyping and marketing experiment fund - to run those first critical tests on the path to user growth and revenue. <br>The fund will be made available to those student teams that show focus, commitment, and progress towards understanding their customer. </p>
     <p>We look forward to seeing you!<br></p>
-    <h2>Payment Amount: $4000</h2>
-    <p>You will be charged <strong>$4000</strong>. This amount already includes all applicable discounts. <br><br>*** <u>Cancellation Policy</u> ***<br>
+    <h2>Payment Amount: $3000</h2>
+    <p>Early Bird Special Price: <strong>$2000</strong> until May 23rd. <br><br>*** <u>Cancellation Policy</u> ***<br>
 Please email either <a href="mailto:matt.romein@gmail.com">Matt Romein</a> (<a href="mailto:matt.romein@gmail.com">matt.romein@gmail.com</a>) or <a href="mailto:kmsullivan012@gmail.com">Kat Sullivan</a> (<a href="mailto:kmsullivan012@gmail.com">kmsullivan012@gmail.com</a>) if you can no longer attend the conference. Full refunds will be issued for cancellations made before June 1st, we will issue 50% refunds for cancellations made before June 15th. Unfortunately, we cannot offer refunds for any cancellations made after June 15th, however you can transfer your registration to another person.</p>
     <h2>Contact/Billing Information</h2>
     <p><em>(all fields are required)</em></p>
@@ -117,6 +119,7 @@ Please email either <a href="mailto:matt.romein@gmail.com">Matt Romein</a> (<a h
             <?php //include 'calendar.php'; ?>
             <div class="">
                 <h2>Schedule</h2>
+                <h4>More classes will be announced as we get closer to the conference!</h4>
 
                 <?php include 'calendar.php'; ?>
                 <!-- <p>Monday, July 17th 4:30-6:30 Overview of VR with Sarah Rothberg<br>
