@@ -103,7 +103,7 @@
     <p>We look forward to seeing you!<br></p>
     <h2>Early Bird Special Price: <strong>$2000</strong> until May 23rd. </h2>
     <br><br>*** <u>Cancellation Policy</u> ***<br>
-Please email either <a href="mailto:mjr619@nyu.edu">Matt Romein</a> (<a href="mailto:mjr619@nyu.edu">mjr619@nyu.edu</a>) or <a href="mailto:katsullivan@nyu.edu">Kat Sullivan</a> (<a href="mailto:katsullivan@nyu.edu">katsullivan@nyu.edu</a>) if you can no longer attend the conference. Full refunds will be issued for cancellations made before June 1st, we will issue 50% refunds for cancellations made before June 15th. Unfortunately, we cannot offer refunds for any cancellations made after June 15th, however you can transfer your registration to another person.</p>
+Please email us at <a href="mailto:vrarbootcamp@itp.nyu.edu ">vrarbootcamp@itp.nyu.edu</a> if you can no longer attend the conference. Full refunds will be issued for cancellations made before June 1st, we will issue 50% refunds for cancellations made before June 15th. Unfortunately, we cannot offer refunds for any cancellations made after June 15th, however you can transfer your registration to another person.</p>
     <h2>Contact/Billing Information</h2>
     <p><em>(all fields are required)</em></p>
                 <?php include 'payment.php'; ?>
@@ -149,14 +149,11 @@ Friday, July 21st 5-9 Demos of VR, AR, and Motion Capture projects</p> -->
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>Contact</h2>
-                <p>Feel free to reach <a href="mailto:mjr619@nyu.edu">Matt Romein</a> or <a href="mailto:katsullivan@nyu.edu">Kat Sullivan</a></p>
+                <p>Feel free to reach out to us <a href="mailto:vrarbootcamp@itp.nyu.edu ">here</a> </p>
                 
                 <ul class="list-inline banner-social-buttons">
                     <li>
-                        <a href="mailto:katsullivan@nyu.edu" class="btn btn-default btn-lg"><i class="fa fa-envelope-o fa-fw"></i> <span class="network-name">Kat Sullivan</span></a>
-                    </li>
-                    <li>
-                        <a href="mailto:mjr619@nyu.edu" class="btn btn-default btn-lg"><i class="fa fa-envelope-o fa-fw"></i> <span class="network-name">Matt Romein</span></a>
+                        <a href="mailto:vrarbootcamp@itp.nyu.edu " class="btn btn-default btn-lg"><i class="fa fa-envelope-o fa-fw"></i> <span class="network-name">Kat Sullivan</span></a>
                     </li>
                 </ul>
             </div>
