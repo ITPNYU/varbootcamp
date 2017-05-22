@@ -149,6 +149,7 @@ a:focus {
     color: #bdc3c7;
     background: url(../img/landing-page.jpg) no-repeat bottom center scroll;
     background-color: #000;
+    background-position: 50% 50%;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
