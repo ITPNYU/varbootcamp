@@ -101,7 +101,7 @@
                 <p>Join NYU’s ITP for a week long intensive workshop series that introduces the innovative world of Virtual Reality and Augmented Reality while showcasing the cutting edge trends developing in these fields. You will gain a high level understanding of topics such as 360 Audio, Motion Capture, 3D Scanning, and learn how these tools can be applied to VR and AR. We will take field trips to various labs and departments at NYU to demonstrate how this research can be applied to VR and AR and you’ll get hands on interaction with various projects utilizing this research. By the end of this workshop you’ll have the necessary knowledge to explore integrating these technologies into your company’s creative toolkit.
                 <br><i>Please note:</i> This is <b>not</b> an academic activity and you will not receive any credits for attending this workshop.
     <p>We look forward to seeing you!<br></p>
-    <h2>Early Bird Special Price: <strong>$2000</strong> until May 23rd. </h2>
+    <h2>Early Bird Special Price: <strong>$2000</strong> until June 1st. </h2>
     <br><br>*** <u>Cancellation Policy</u> ***<br>
 Please email us at <a href="mailto:vrarbootcamp@itp.nyu.edu ">vrarbootcamp@itp.nyu.edu</a> if you can no longer attend the conference. Full refunds will be issued for cancellations made before June 1st, we will issue 50% refunds for cancellations made before June 15th. Unfortunately, we cannot offer refunds for any cancellations made after June 15th, however you can transfer your registration to another person.</p>
     <h2>Contact/Billing Information</h2>
@@ -153,7 +153,7 @@ Friday, July 21st 5-9 Demos of VR, AR, and Motion Capture projects</p> -->
                 
                 <ul class="list-inline banner-social-buttons">
                     <li>
-                        <a href="mailto:vrarbootcamp@itp.nyu.edu " class="btn btn-default btn-lg"><i class="fa fa-envelope-o fa-fw"></i> <span class="network-name">Kat Sullivan</span></a>
+                        <a href="mailto:vrarbootcamp@itp.nyu.edu " class="btn btn-default btn-lg"><i class="fa fa-envelope-o fa-fw"></i> <span class="network-name">VR/AR Bootcamp</span></a>
                     </li>
                 </ul>
             </div>
@@ -161,12 +161,12 @@ Friday, July 21st 5-9 Demos of VR, AR, and Motion Capture projects</p> -->
     </section>
 
     <!-- ITP Section -->
-    <!-- <div id="itp" align="center">
+    <div id="itp" align="center">
         <br>
         <a href="https://tisch.nyu.edu/itp">
             <img src="img/itp.png" alt="NYU | TISCH | ITP" height="80" width="80" >
         </a>
-    </div> -->
+    </div> 
 
     <!-- Footer -->
     <footer>
