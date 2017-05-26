@@ -22,14 +22,14 @@
 				<div class="top-info"><span>Monday, July 17th</span></div>
 
 				<ul>
-					<li class="single-event" data-start="16:30" data-end="18:30" data-content="event-a" data-event="event-2">
+					<li class="single-event" data-start="4:30pm" data-end="6:30pm" data-content="event-a" data-event="event-2">
 						<a href="#0">
 							<em class="event-name">Overview of VR</em>
 							<em>Sarah Rothberg</em>
 						</a>
 					</li>
 
-					<li class="single-event" data-start="19:00" data-end="21:00" data-content="event-2" data-event="event-1">
+					<li class="single-event" data-start="7:00pm" data-end="9:00pm" data-content="event-2" data-event="event-1">
 						<a href="#0">
 							<em class="event-name">Overview of AR</em>
 							<em>Ziv Schneider</em>
@@ -42,7 +42,7 @@
 				<div class="top-info"><span>Tuesday, July 18th</span></div>
 
 				<ul>
-					<li class="single-event" data-start="16:30" data-end="18:30"  data-content="event-3" data-event="event-4">
+					<li class="single-event" data-start="4:30pm" data-end="6:30pm"  data-content="event-3" data-event="event-4">
 						<a href="#0">
 							<em class="event-name">Game Engines</em>
 							<em>Todd Bryant</em>
@@ -55,14 +55,14 @@
 				<div class="top-info"><span>Wednesday, July 19th</span></div>
 
 				<ul>
-					<li class="single-event" data-start="16:30" data-end="18:30" data-content="event-4" data-event="event-1">
+					<li class="single-event" data-start="4:30pm" data-end="6:30pm" data-content="event-4" data-event="event-1">
 						<a href="#0">
 							<em class="event-name">3D Scanning for VR</em>
 							<em>Gabe Barcia-Colombo</em>
 						</a>
 					</li>
 
-					<li class="single-event" data-start="19:00" data-end="21:00" data-content="event-5" data-event="event-2">
+					<li class="single-event" data-start="7:00pm" data-end="9:00pm" data-content="event-5" data-event="event-2">
 						<a href="#0">
 							<em class="event-name">Audio in VR</em>
 							<em>TK Broderick</em>
@@ -75,7 +75,7 @@
 				<div class="top-info"><span>Thursday, July 20</span></div>
 
 				<ul>
-					<li class="single-event" data-start="17:00" data-end="21:00" data-content="event-6" data-event="event-4">
+					<li class="single-event" data-start="5:00pm" data-end="9:00pm" data-content="event-6" data-event="event-4">
 						<a href="#0">
 							<em class="event-name">Off site visit to the motion capture studio at Jay Street/Metro Tech NYU campus</em>
 							<em> Todd Bryant, Matt Romein, and Kat Sullivan</em>
@@ -88,7 +88,7 @@
 				<div class="top-info"><span>Friday, July 21st</span></div>
 
 				<ul>
-					<li class="single-event" data-start="17:00" data-end="21:00"  data-content="event-7" data-event="event-3">
+					<li class="single-event" data-start="5:00pm" data-end="9:00pm"  data-content="event-7" data-event="event-3">
 						<a href="#0">
 							<em class="event-name">Demos of VR, AR, and Motion Capture projects</em>
 						</a>
