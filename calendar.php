@@ -57,7 +57,7 @@
 				<ul>
 					<li class="single-event" data-start="16:30" data-end="18:30" data-content="event-4" data-event="event-1">
 						<a href="#0">
-							<em class="event-name">Overview of 3D Scanning and Photogrammetry</em>
+							<em class="event-name">3D Scanning for VR</em>
 							<em>Gabe Barcia-Colombo</em>
 						</a>
 					</li>
