@@ -90,6 +90,9 @@
                     </div>
                 </div>
             </div>
+            <h5 id="photo-cred">RecoVR:Mosul, by ITP alumni Ziv Schneider & Laura Chen
+Commissioned by The Economist in association with Rekrei
+photo credit: IDFA Doc Lab 2016</h5>
         </div>
     </header>
 
