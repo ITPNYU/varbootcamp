@@ -24,8 +24,8 @@
 				<ul>
 					<li class="single-event" data-start="16:30" data-end="18:30" data-content="event-a" data-event="event-2">
 						<a href="#0">
-							<em class="event-name">Overview of VR</em>
-							<em>Sarah Rothberg</em>
+							<em class="event-name">VR and Scientific Research</em>
+							<em>David Miller</em>
 						</a>
 					</li>
 
