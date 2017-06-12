@@ -104,7 +104,8 @@ photo credit: IDFA Doc Lab 2016</h5>
                 <p>Join NYU’s ITP for a week long intensive workshop series that introduces the innovative world of Virtual Reality and Augmented Reality while showcasing the cutting edge trends developing in these fields. You will gain a high level understanding of topics such as 360 Audio, Motion Capture, 3D Scanning, and learn how these tools can be applied to VR and AR. We will take field trips to various labs and departments at NYU to demonstrate how this research can be applied to VR and AR and you’ll get hands on interaction with various projects utilizing this research. By the end of this workshop you’ll have the necessary knowledge to explore integrating these technologies into your company’s creative toolkit.
                 <br><i>Please note:</i> This is <b>not</b> an academic activity and you will not receive any credits for attending this workshop.
     <p>We look forward to seeing you!<br></p>
-    <h2>Early Bird Special Price: <strong>$2000</strong> until June 1st. </h2>
+    <h2>Price: <strong>$3000</strong></h2>
+    <h2>Discounts available for ITP alum and NYU faculty and staff</h2>
     <br><br>*** <u>Cancellation Policy</u> ***<br>
 Please email us at <a href="mailto:vrarbootcamp@itp.nyu.edu ">vrarbootcamp@itp.nyu.edu</a> if you can no longer attend the conference. Full refunds will be issued for cancellations made before June 1st, we will issue 50% refunds for cancellations made before June 15th. Unfortunately, we cannot offer refunds for any cancellations made after June 15th, however you can transfer your registration to another person.</p>
     <h2>Contact/Billing Information</h2>
