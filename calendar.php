@@ -1,7 +1,11 @@
 <div class="cd-schedule loading">
 	<div class="timeline">
 		<ul>
-			
+			<li><span>14:00</span></li>
+			<li><span>14:30</span></li>
+			<li><span>15:00</span></li>
+			<li><span>15:30</span></li>
+			<li><span>16:00</span></li>
 			<li><span>16:30</span></li>
 			<li><span>17:00</span></li>
 			<li><span>17:30</span></li>
