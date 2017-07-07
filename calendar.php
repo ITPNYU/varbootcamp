@@ -26,7 +26,7 @@
 				<div class="top-info"><span>Monday, July 17th</span></div>
 
 				<ul>
-					<li class="single-event" data-start="14:00" data-end="15:30" data-content="event-a" data-event="event-2">
+					<li class="single-event" data-start="14:00" data-end="15:30" data-content="event-1" data-event="event-2">
 						<a href="#0">
 							<em class="event-name">Fieldtrip to IrisVR with Tyler Hopf</em>
 							<em>Tyler Hopf</em>
@@ -105,11 +105,18 @@
 				<div class="top-info"><span>Friday, July 21st</span></div>
 
 				<ul>
-					<li class="single-event" data-start="17:00" data-end="21:00"  data-content="event-9" data-event="event-3">
+					<li class="single-event" data-start="14:00" data-end="15:30"  data-content="event-9" data-event="event-2">
+						<a href="#0">
+							<em class="event-name">Field Trip to Google</em>
+						</a>
+					</li>
+
+					<li class="single-event" data-start="17:00" data-end="21:00"  data-content="event-10" data-event="event-3">
 						<a href="#0">
 							<em class="event-name">Demos of VR, AR, and Motion Capture projects</em>
 						</a>
 					</li>
+
 				</ul>
 			</li>
 		</ul>
