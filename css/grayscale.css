@@ -149,6 +149,7 @@ a:focus {
     color: #bdc3c7;
     background: url(../img/landing-page.jpg) no-repeat bottom center scroll;
     background-color: #000;
+    background-position: 50% 50%;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -169,7 +170,7 @@ a:focus {
 }
 
 .intro-text {
-    background-color: rgba(127,140,141,.5);
+    background-color: rgba(127,140,141,.7);
 }
 
 .brand-heading {
@@ -382,4 +383,10 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
+}
+
+#photo-cred {
+    padding-left: 75%;
+    margin-bottom: 0px;
+    color: white;
 }

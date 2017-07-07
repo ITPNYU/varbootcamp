@@ -90,6 +90,9 @@
                     </div>
                 </div>
             </div>
+            <h5 id="photo-cred">RecoVR:Mosul, by ITP alumni Ziv Schneider & Laura Chen
+Commissioned by The Economist in association with Rekrei
+photo credit: IDFA Doc Lab 2016</h5>
         </div>
     </header>
 
@@ -100,12 +103,11 @@
                 <h2>Creative, Iterative, and Collaborative</h2>
                 <p>Join NYU’s ITP for a week long intensive workshop series that introduces the innovative world of Virtual Reality and Augmented Reality while showcasing the cutting edge trends developing in these fields. You will gain a high level understanding of topics such as 360 Audio, Motion Capture, 3D Scanning, and learn how these tools can be applied to VR and AR. We will take field trips to various labs and departments at NYU to demonstrate how this research can be applied to VR and AR and you’ll get hands on interaction with various projects utilizing this research. By the end of this workshop you’ll have the necessary knowledge to explore integrating these technologies into your company’s creative toolkit.
                 <br><i>Please note:</i> This is <b>not</b> an academic activity and you will not receive any credits for attending this workshop.
-
-        Student fees will be pooled into a prototyping and marketing experiment fund - to run those first critical tests on the path to user growth and revenue. <br>The fund will be made available to those student teams that show focus, commitment, and progress towards understanding their customer. </p>
     <p>We look forward to seeing you!<br></p>
-    <h2>Payment Amount: $3000</h2>
-    <p>Early Bird Special Price: <strong>$2000</strong> until May 23rd. <br><br>*** <u>Cancellation Policy</u> ***<br>
-Please email either <a href="mailto:matt.romein@gmail.com">Matt Romein</a> (<a href="mailto:matt.romein@gmail.com">matt.romein@gmail.com</a>) or <a href="mailto:kmsullivan012@gmail.com">Kat Sullivan</a> (<a href="mailto:kmsullivan012@gmail.com">kmsullivan012@gmail.com</a>) if you can no longer attend the conference. Full refunds will be issued for cancellations made before June 1st, we will issue 50% refunds for cancellations made before June 15th. Unfortunately, we cannot offer refunds for any cancellations made after June 15th, however you can transfer your registration to another person.</p>
+    <h2>Price: <strong>$3000</strong></h2>
+    <h2>Discounts available for ITP alum and NYU faculty and staff</h2>
+    <br><br>*** <u>Cancellation Policy</u> ***<br>
+Please email us at <a href="mailto:vrarbootcamp@itp.nyu.edu ">vrarbootcamp@itp.nyu.edu</a> if you can no longer attend the conference. Full refunds will be issued for cancellations made before June 1st, we will issue 50% refunds for cancellations made before June 15th. Unfortunately, we cannot offer refunds for any cancellations made after June 15th, however you can transfer your registration to another person.</p>
     <h2>Contact/Billing Information</h2>
     <p><em>(all fields are required)</em></p>
                 <?php include 'payment.php'; ?>
@@ -151,14 +153,11 @@ Friday, July 21st 5-9 Demos of VR, AR, and Motion Capture projects</p> -->
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>Contact</h2>
-                <p>Feel free to reach <a href="mailto:matt.romein@gmail.com">Matt Romein</a> or <a href="mailto:kmsullivan012@gmail.com">Kat Sullivan</a></p>
+                <p>Feel free to reach out to us <a href="mailto:vrarbootcamp@itp.nyu.edu ">here</a> </p>
                 
                 <ul class="list-inline banner-social-buttons">
                     <li>
-                        <a href="mailto:kmsullivan012@gmail.com" class="btn btn-default btn-lg"><i class="fa fa-envelope-o fa-fw"></i> <span class="network-name">Kat Sullivan</span></a>
-                    </li>
-                    <li>
-                        <a href="mailto:matt.romein@gmail.com" class="btn btn-default btn-lg"><i class="fa fa-envelope-o fa-fw"></i> <span class="network-name">Matt Romein</span></a>
+                        <a href="mailto:vrarbootcamp@itp.nyu.edu " class="btn btn-default btn-lg"><i class="fa fa-envelope-o fa-fw"></i> <span class="network-name">VR/AR Bootcamp</span></a>
                     </li>
                 </ul>
             </div>
@@ -166,12 +165,12 @@ Friday, July 21st 5-9 Demos of VR, AR, and Motion Capture projects</p> -->
     </section>
 
     <!-- ITP Section -->
-    <!-- <div id="itp" align="center">
+    <div id="itp" align="center">
         <br>
         <a href="https://tisch.nyu.edu/itp">
             <img src="img/itp.png" alt="NYU | TISCH | ITP" height="80" width="80" >
         </a>
-    </div> -->
+    </div> 
 
     <!-- Footer -->
     <footer>
