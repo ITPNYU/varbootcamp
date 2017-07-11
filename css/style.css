@@ -92,6 +92,14 @@ Main Components
   }
 }
 
+#smaller-font {
+  font-size: 16px;
+}
+
+#even-smaller-font {
+  font-size: 12px;
+}
+
 .cd-schedule .events {
   position: relative;
   z-index: 1;
