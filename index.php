@@ -56,13 +56,10 @@
                         <a href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#payment">Join now</a>
-                    </li>
-                    <li>
                         <a class="page-scroll" href="#schedule">Schedule</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#teachers">Teachers</a>
+                        <a class="page-scroll" href="#faq">FAQs</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
@@ -96,33 +93,12 @@ photo credit: IDFA Doc Lab 2016</h5>
         </div>
     </header>
 
-    <!-- About Section -->
-    <section id="payment" class="container content-section text-center">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
-                <h2>Creative, Iterative, and Collaborative</h2>
-                <p>Join NYU’s ITP for a week long intensive workshop series that introduces the innovative world of Virtual Reality and Augmented Reality while showcasing the cutting edge trends developing in these fields. You will gain a high level understanding of topics such as 360 Audio, Motion Capture, 3D Scanning, and learn how these tools can be applied to VR and AR. We will take field trips to various labs and departments at NYU to demonstrate how this research can be applied to VR and AR and you’ll get hands on interaction with various projects utilizing this research. By the end of this workshop you’ll have the necessary knowledge to explore integrating these technologies into your company’s creative toolkit.
-                <br><i>Please note:</i> This is <b>not</b> an academic activity and you will not receive any credits for attending this workshop.
-    <p>We look forward to seeing you!<br></p>
-    <h2>Price: <strong>$3000</strong></h2>
-    <h2>Discounts available for ITP alum and NYU faculty and staff</h2>
-    <br><br>*** <u>Cancellation Policy</u> ***<br>
-Please email us at <a href="mailto:vrarbootcamp@itp.nyu.edu ">vrarbootcamp@itp.nyu.edu</a> if you can no longer attend the conference. Full refunds will be issued for cancellations made before June 1st, we will issue 50% refunds for cancellations made before June 15th. Unfortunately, we cannot offer refunds for any cancellations made after June 15th, however you can transfer your registration to another person.</p>
-    <h2>Contact/Billing Information</h2>
-    <p><em>(all fields are required)</em></p>
-                <?php include 'payment.php'; ?>
-            </div>
-        </div>
-    </section>
-
     <!-- Schedule Section -->
     <section id="schedule" class="container content-section text-center">
         <div class="row">
             <?php //include 'calendar.php'; ?>
             <div class="">
                 <h2>Schedule</h2>
-                <h4>More classes will be announced as we get closer to the conference!</h4>
-
                 <?php include 'calendar.php'; ?>
                 <!-- <p>Monday, July 17th 4:30-6:30 Overview of VR with Sarah Rothberg<br>
     Monday, July 17th 7-9 Overview of AR with Ziv Schneider<br>
@@ -138,12 +114,24 @@ Friday, July 21st 5-9 Demos of VR, AR, and Motion Capture projects</p> -->
     </section>
 
     <!-- Teachers Section -->
-    <section id="teachers" class="container content-section text-center">
+    <section id="faq" class="container content-section text-center">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
-                <h2>Teachers</h2>
-                    <a href="varbootcamp.pdf" class="btn btn-default btn-lg"><i class="fa fa-user-circle-o" aria-hidden="true"></i> <span class="network-name">Download Teachers' Info</span></a>
-                    
+                <h2>FAQs</h2>
+                   <em>Will there be food?</em>
+                    <p>We will be providing food on the first day and last day (7/17 + 7/21). We will have vegetarian options but if you have any dietary or allergy restrictions please let us know.
+                    You will be responsible for your own food on other days. There will be 30 min dinner breaks each night with various food options nearby the Tisch building.</p>
+
+                    <em>What do I need to bring?</em>
+                    <p>Laptop or something to take notes with. We will have most of the equipment needed on hand unless there is a specific request from a teach for you to bring something. 
+                    And bring a Government ID, as most of the buildings will require you to sign in or show your ID to access the building.</p>
+
+                    <em>Is there equipment for me to use?</em>
+                    <p>We will have equipment set up at ITP for you to use during the classes. Outside of class hours if you want to be at ITP and use some of the equipment to demo projects or to try developing your own work this can be facilitated. Contact Matt Romein or Kat Sullivan to coordinate this or ask any questions.</p>
+
+                    <em>Where is this taking place?</em>
+                    <p>Most classes and events will take place at ITP (4th floor) in the Tisch School of the Arts building at NYU. However there are a few field trips at different locations around Manhattan and Brooklyn. For more information please click on the individual classes in the Schedule.</p>
+ 
             </div>
         </div>
     </section>
@@ -153,7 +141,7 @@ Friday, July 21st 5-9 Demos of VR, AR, and Motion Capture projects</p> -->
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>Contact</h2>
-                <p>Feel free to reach out to us <a href="mailto:vrarbootcamp@itp.nyu.edu ">here</a> </p>
+                <p>Feel free to reach out to us (Matt Romein and Kat Sullivan) <a href="mailto:vrarbootcamp@itp.nyu.edu ">here</a> </p>
                 
                 <ul class="list-inline banner-social-buttons">
                     <li>

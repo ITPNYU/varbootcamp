@@ -141,7 +141,7 @@
 		</header>
 
 		<div class="body">
-			<div style="overflow: auto" class="event-info"></div>
+			<div style="overflow: auto; padding-left:15px; padding-right:15px;" class="event-info"></div>
 			<div class="body-bg"></div>
 		</div>
 

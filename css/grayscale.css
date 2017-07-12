@@ -57,6 +57,10 @@ a:focus {
     color: #448ccb;
 }
 
+em {
+    font-size: 24px;
+}
+
 .light {
     font-weight: 400;
 }
@@ -271,7 +275,7 @@ a:focus {
 }
 
 .content-section {
-    padding-top: 100px;
+    padding-top: 50px;
 }
 
 .download-section {
@@ -294,7 +298,7 @@ a:focus {
 
 @media(min-width:767px) {
     .content-section {
-        padding-top: 250px;
+        padding-top: 100px;
     }
 
     .download-section {
